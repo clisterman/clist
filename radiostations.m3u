@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,-----Alternative----
+#EXTINF:-1, 94.9 KBZT - San Diego
+http://107.22.108.201/entercom-kbztfmaac-ibc1?session-id=26aaaa7c12558d638899c51c99436387&c_yob=1970&c_gender=f&source=TuneIn
+#EXTINF:-1, 103.7 KROQ - San Diego
+http://18583.live.streamtheworld.com:80/KROQFM_SC?DIST=TuneIn&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIzMDIzMjU0IiwiaWF0IjoxNDk0MzAyNTcxLCJ0ZC1yZWciOmZhbHNlfQ.rZUs88Je_GCtdTq5jm6quDVkBAgKjw8Et6RN3_JUP6w&TGT=TuneIn&gender=f
+#EXTINF:-1,-----College----
+#EXTINF:-1, 88.7 KBVR
+http://128.193.127.17:8000/
+#EXTINF:-1,-----Hard Rock----
+#EXTINF:-1,-----Electronic----
+#EXTINF:-1, C89.5 Seattle 
+http://knhc-ice.streamguys1.com/live
